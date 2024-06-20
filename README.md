@@ -9,6 +9,7 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [File Structure](#file-structure)
+- [ScreenShots](#screenshots)
 - [Author](#author)
 - [License](#license)
 
@@ -101,9 +102,9 @@ This project relies on the following Flutter packages:
   
 These dependencies are specified in the **pubspec.yaml** file.
 
-##ScreenShots
+## ScreenShots
 <img src="https://github.com/Asim-Sidd02/Weather-App/blob/main/ss1.jpg" alt="Screenshot">
-
+<img src="https://github.com/Asim-Sidd02/Weather-App/blob/main/ss2.jpg" alt="Screenshot">
 
 
 
