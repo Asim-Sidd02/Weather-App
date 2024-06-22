@@ -103,7 +103,7 @@ This project relies on the following Flutter packages:
 These dependencies are specified in the **pubspec.yaml** file.
 
 ## ScreenShots
-<img src="https://github.com/Asim-Sidd02/Weather-App/blob/main/ss1.jpg" height:100px alt="Screenshot">
+<img src="https://github.com/Asim-Sidd02/Weather-App/blob/main/ss1.jpg" alt="Screenshot">
 <img src="https://github.com/Asim-Sidd02/Weather-App/blob/main/ss2.jpg" alt="Screenshot">
 
 
